@@ -1,0 +1,29 @@
+[33mcommit d5fde9a4302f80309b7cf67ceaae5710f21523ae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: clone <ddoussot@ispheregroup.fr>
+Date:   Mon Dec 30 18:36:30 2019 +0100
+
+    #1: ajout du readme
+
+[33mcommit b74c7f3094b2674ea97a74234ae5fba0558740d1[m[33m ([m[1;33mtag: MON_SITE_V2[m[33m)[m
+Author: David DOUSSOT <ddoussot@ispheregroup.fr>
+Date:   Sat Dec 28 21:26:14 2019 +0100
+
+    ajout des titres
+
+[33mcommit 8d6ea82a07350773bcf98642eba7a9efde115f11[m
+Author: David DOUSSOT <ddoussot@ispheregroup.fr>
+Date:   Sat Dec 28 20:56:05 2019 +0100
+
+    ajout de la description
+
+[33mcommit 2177eda6d0c15b559367d9e6e4d2723b80f56158[m[33m ([m[1;33mtag: MON_SITE_V1[m[33m)[m
+Author: David DOUSSOT <ddoussot@ispheregroup.fr>
+Date:   Sat Dec 28 20:53:58 2019 +0100
+
+    ajout du top banner
+
+[33mcommit 1f555fe0cc7375ffd07cfc28db38dc0f65bc2f67[m
+Author: David DOUSSOT <ddoussot@ispheregroup.fr>
+Date:   Sat Dec 28 20:48:38 2019 +0100
+
+    mon premier commit
